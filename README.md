@@ -88,6 +88,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Feel free to customize this README file as per your project's specific requirements.
 ```
-![Screenshot](Screenshot%20(109).png)
 
 Make sure to add the `database.sql` file to the root of your repository to allow users to set up the database easily. Let me know if you need any further assistance!
