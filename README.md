@@ -1,5 +1,3 @@
-
-```markdown
 # Bus Booking Management System
 
 This repository contains a Bus Booking Management System developed using various web technologies. The system allows users to book bus tickets, manage bookings, and view available buses. It is a comprehensive solution for bus operators and passengers to streamline the booking process.
@@ -84,9 +82,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 - Special thanks to all the contributors and open-source projects that made this project possible.
 
----
-
-Feel free to customize this README file as per your project's specific requirements.
-```
-
-Make sure to add the `database.sql` file to the root of your repository to allow users to set up the database easily. Let me know if you need any further assistance!
